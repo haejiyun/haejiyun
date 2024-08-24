@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there, I am Haeji 👋
 
 Welcome to my GitHub Profile! I’m a Data Scientist with a strong specialization in business applications. My experience spans both public and private organizations, where I've focused on data analytics and project management. I excel at bridging the gap between data science and business strategy.
 
