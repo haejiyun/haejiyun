@@ -12,7 +12,7 @@ I have a passion for working with qualitative data, such as the spoken and writt
 *Description*  
 An in-depth analysis of Airbnb guest experiences using advanced NLP techniques such as Zero-shot Classification and BERT Sentiment Analysis. This project includes a comprehensive pipeline that detects language, translates non-English reviews, and categorizes sentiment and content using state-of-the-art models. The results are presented through an interactive Streamlit app.
 
-[**2. Machine Learning Portfolio**](https://github.com/haejiyun/Machine-Learning/blob/main/README.md) 
+[**2. Machine Learning Portfolio**](https://github.com/haejiyun/Machine-Learning/blob/main/README.md)  
 **Project: Clustering of French Cities and Rupture Detection of Voting Behavior**  
 *Description*  
 A detailed analysis of French electoral behavior based on socio-economic data inspired by "Une histoire du conflit" by Thomas Piketty and Julia Cagé. This project utilizes unsupervised learning techniques like dimensionality reduction, clustering, and rupture detection to identify patterns and shifts in voting preferences across different regions in France. The study visually explores the relationship between voting behavior and factors such as income, education, and demographics, providing deep insights into the socio-political landscape.
