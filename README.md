@@ -19,7 +19,7 @@ A detailed analysis of French electoral behavior based on socio-economic data in
 
 [**3. Data Visualization Portfolio**](https://github.com/haejiyun/Data-Visualisation/blob/main/README.md)   
 **Project: Drinking Water Access Dashboard**  
-*Description* 
+*Description*  
 A Tableau dashboard that visualizes global access to drinking water, with insights on population distribution, political stability, and mortality rates related to unsafe water. This project aims to guide decisions for optimizing water access policies and services.
 
 [**4. Data Analysis Portfolio**](https://github.com/haejiyun/Data-Analysis/blob/main/README.md)   
@@ -29,7 +29,7 @@ A comprehensive analysis of global malnutrition, food availability, and distribu
 
 [**5. Advanced Statistics Portfolio**](https://github.com/haejiyun/Advanced-Statistics/blob/main/README.md)   
 **Project: Rain Prediction with Generalized Linear Models**  
-*Description*   
+*Description*  
 Predicting rainfall in Basel, Switzerland, using historical meteorological data. The project includes variable selection and the development of an efficient binary classification model to forecast the likelihood of rain.
 
 ## How to Explore  
@@ -38,15 +38,15 @@ To explore the projects:
 - Click on the portfolio links above to navigate directly to the project directory.  
 - Review the README in each directory for an overview of the project's objectives, methodologies, and results.  
 - Access the code and any accompanying data visualizations or interactive tools provided in the project directory.  
-
+<br>
 ## 🌟 Skills & Tools
-Languages: Python, R, SQL <br>
-Machine Learning: Scikit-learn, TensorFlow, PyTorch <br>
-NLP: NLTK, BERT <br>
-Data Visualization: Tableau, Power BI, Plotly, Matplotlib <br>
+**Languages**: Python, R, SQL <br>
+**Machine Learning**: Scikit-learn, TensorFlow, PyTorch <br>
+**NLP**: NLTK, BERT <br>
+**Data Visualization**: Tableau, Power BI, Plotly, Matplotlib <br>
 
 ## 📫 Let's Connect
-Website/Blog: haejiyun.github.io <br>
-LinkedIn: https://www.linkedin.com/in/haejiyun/ <br>
-Email: haejiyun.hy@gmail.com <br>
+**Website**: haejiyun.github.io <br>
+**LinkedIn**: https://www.linkedin.com/in/haejiyun/ <br>
+**Email**: haejiyun.hy@gmail.com <br>
 
