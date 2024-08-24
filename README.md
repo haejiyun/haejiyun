@@ -8,7 +8,7 @@ My extensive experience in managing end-to-end projects has laid a solid foundat
 
 I have a passion for working with qualitative data, such as the spoken and written words of various stakeholders, which provide rich insights that go beyond conventional data analysis. My deep interest in Natural Language Processing (NLP) allows me to leverage modern techniques to extract fascinating and actionable insights from textual data.
 
-🔍 Projects Overview
+##🔍 Projects Overview
 Data Science & Machine Learning
 [Project Title]: Brief description of the project’s focus and the methods used.
 [Project Title]: Brief description of the project’s focus and the methods used.
