@@ -8,8 +8,9 @@ I have a passion for working with qualitative data, such as the spoken and writt
 
 ## 🔍 Project Highlights
 **1. NLP Portfolio**  
-Project: Sentiment Analysis of Airbnb Reviews in Paris  
-Description: An in-depth analysis of Airbnb guest experiences using advanced NLP techniques such as Zero-shot Classification and BERT Sentiment Analysis. This project includes a comprehensive pipeline that detects language, translates non-English reviews, and categorizes sentiment and content using state-of-the-art models. The results are presented through an interactive Streamlit app.
+**Project**: Sentiment Analysis of Airbnb Reviews in Paris  
+**Description**  
+An in-depth analysis of Airbnb guest experiences using advanced NLP techniques such as Zero-shot Classification and BERT Sentiment Analysis. This project includes a comprehensive pipeline that detects language, translates non-English reviews, and categorizes sentiment and content using state-of-the-art models. The results are presented through an interactive Streamlit app.
 
 **2. Machine Learning Portfolio**  
 Project: Clustering of French Cities and Rupture Detection of Voting Behavior  
