@@ -39,6 +39,7 @@ To explore the projects:
 - Review the README in each directory for an overview of the project's objectives, methodologies, and results.  
 - Access the code and any accompanying data visualizations or interactive tools provided in the project directory.  
 <br>
+
 ## 🌟 Skills & Tools
 **Languages**: Python, R, SQL <br>
 **Machine Learning**: Scikit-learn, TensorFlow, PyTorch <br>
