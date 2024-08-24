@@ -6,16 +6,32 @@ My extensive experience in managing end-to-end projects has laid a solid foundat
 
 I have a passion for working with qualitative data, such as the spoken and written words of various stakeholders, which provide rich insights that go beyond conventional data analysis. My deep interest in Natural Language Processing (NLP) allows me to leverage modern techniques to extract fascinating and actionable insights from textual data.
 
-## 🔍 Projects Overview
-Data Science & Machine Learning<br>
-[Project Title]: Brief description of the project’s focus and the methods used.<br>
-[Project Title]: Brief description of the project’s focus and the methods used.<br>
-Natural Language Processing (NLP)<br>
-[Project Title]: Brief description of the project’s focus and the methods used.<br>
-[Project Title]: Brief description of the project’s focus and the methods used.<br>
-Data Visualization & Analytics<br>
-[Project Title]: Brief description of the project’s focus and the methods used.<br>
-[Project Title]: Brief description of the project’s focus and the methods used.<br>
+## 🔍 Project Highlights
+**1. NLP Portfolio**
+Project: Sentiment Analysis of Airbnb Reviews in Paris
+Description: An in-depth analysis of Airbnb guest experiences using advanced NLP techniques such as Zero-shot Classification and BERT Sentiment Analysis. This project includes a comprehensive pipeline that detects language, translates non-English reviews, and categorizes sentiment and content using state-of-the-art models. The results are presented through an interactive Streamlit app.
+
+**2. Machine Learning Portfolio**
+Project: Clustering of French Cities and Rupture Detection of Voting Behavior
+Description: A detailed analysis of French electoral behavior based on socio-economic data inspired by "Une histoire du conflit" by Thomas Piketty and Julia Cagé. This project utilizes unsupervised learning techniques like dimensionality reduction, clustering, and rupture detection to identify patterns and shifts in voting preferences across different regions in France. The study visually explores the relationship between voting behavior and factors such as income, education, and demographics, providing deep insights into the socio-political landscape.
+
+**3. Data Visualization Portfolio**
+Project: Drinking Water Access Dashboard
+Description: A Tableau dashboard that visualizes global access to drinking water, with insights on population distribution, political stability, and mortality rates related to unsafe water. This project aims to guide decisions for optimizing water access policies and services.
+
+**4. Data Analysis Portfolio**
+Project: Food Security Panorama
+Description: A comprehensive analysis of global malnutrition, food availability, and distribution. The study includes mathematical calculations to assess food security at both global and country levels, with a focus on cereal products and specific countries.
+
+**5. Advanced Statistics Portfolio**
+Project: Rain Prediction with Generalized Linear Models
+Description: Predicting rainfall in Basel, Switzerland, using historical meteorological data. The project includes variable selection and the development of an efficient binary classification model to forecast the likelihood of rain.
+
+## How to Explore
+Each project in this portfolio is contained within its own directory, complete with a detailed README file, code, and relevant documentation. To explore the projects:
+Click on the portfolio links above to navigate directly to the project directory.
+Review the README in each directory for an overview of the project's objectives, methodologies, and results.
+Access the code and any accompanying data visualizations or interactive tools provided in the project directory.
 
 ## 🌟 Skills & Tools
 Languages: Python, R, SQL <br>
