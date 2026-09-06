@@ -46,7 +46,6 @@ To explore the projects:
 **Data Visualization**: Tableau, Power BI, Plotly, Matplotlib <br>
 
 ## 📫 Let's Connect
-**Website**: https://haejiyun.github.io/ <br>
 **LinkedIn**: https://www.linkedin.com/in/haejiyun/ <br>
 **Email**: haejiyun.hy@gmail.com <br>
 
